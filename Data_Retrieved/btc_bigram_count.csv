@@ -1,0 +1,11 @@
+Bigram,Count
+"('crypto', 'market')",28
+"('Good', 'morning')",22
+"('morning', 'welcome')",21
+"('welcome', 'First')",21
+"('First', 'Mover')",21
+"('Mover', 'Im')",21
+"('ul', 'li')",21
+"('Im', 'Lyllah')",20
+"('Lyllah', 'Ledesma')",20
+"('take', 'latest')",20

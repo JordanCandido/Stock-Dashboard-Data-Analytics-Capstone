@@ -1,0 +1,11 @@
+Bigram,Count
+"('Wall', 'Street')",20
+"('Dow', 'Jones')",14
+"('Jones', 'Industrial')",13
+"('Federal', 'Reserve')",13
+"('U.S.', 'stock')",12
+"('Stock', 'future')",11
+"('CNBC', 'Jim')",10
+"('Jim', 'Cramer')",10
+"('Industrial', 'Average')",10
+"('overnight', 'trading')",9

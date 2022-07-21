@@ -1,0 +1,11 @@
+Bigram,Count
+"('tax', 'rate')",16
+"('Wall', 'Street')",12
+"(""'re"", 'reading')",9
+"('GDP', 'growth')",9
+"('growth', 'Q1')",9
+"('Q1', '2022')",9
+"('Unemployment', 'rate')",9
+"('rate', 'May')",9
+"('May', '2022')",9
+"('Top', 'corporate')",9

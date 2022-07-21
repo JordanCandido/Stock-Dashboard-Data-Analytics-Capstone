@@ -1,0 +1,11 @@
+Bigram,Count
+"('miss', 'CoinDesk')",14
+"('CoinDesk', 'Consensus')",14
+"('Consensus', '2022')",14
+"('2022', 'must-attend')",14
+"('must-attend', 'crypto')",14
+"('crypto', 'blockchain')",14
+"('blockchain', 'festival')",14
+"('festival', 'experience')",14
+"('experience', 'year')",14
+"('year', 'Austin')",14
